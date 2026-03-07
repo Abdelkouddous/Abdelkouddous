@@ -22,18 +22,22 @@ Building secure, scalable, real-world software
 * JavaScript / TypeScript
 * Python
 * SQL
+* Php
+* Dart
 
 **Frontend**
 
 * React / Next.js
 * React Native
 * Tailwind CSS
+* Flutter
 
 **Backend**
 
 * Node.js (Express, NestJS)
+* Laravel
+* NestJS
 * Django
-* .NET / Spring Boot *(academic & fundamentals)*
 
 **DevOps & Systems**
 
@@ -41,6 +45,7 @@ Building secure, scalable, real-world software
 * Docker
 * CI/CD concepts
 * Git & GitHub
+* Kubernetes
 
 **Databases**
 
