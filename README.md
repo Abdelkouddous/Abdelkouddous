@@ -3,12 +3,13 @@
 **Systems Engineer | Full-Stack & AI/ML**
 Background in healthcare & industrial systems
 Building secure, scalable, real-world software
+Certified Machine Learning Professional 
 
 ---
 
 ## 🧠 About Me
 
-* Software Engineer with a strong foundation in **Full-Stack development** and **DevOps**
+* Software Engineer with a strong foundation in **Full-Stack development** and **AI/ML**
 * Academic and professional background spanning **computer science**, **systems & multimedia**, and **medical imaging**
 * Strong interest in **industrial IT**, **AI**, **cybersecurity**, and **reliable system design**
 * Focused on building solutions that work in **real environments** — not just demos
