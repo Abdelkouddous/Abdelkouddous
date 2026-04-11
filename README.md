@@ -1,6 +1,6 @@
 # Hi, I'm Aymen Abdelkouddous 👋
 
-**Software Engineer | Full-Stack & DevOps**
+**Systems Engineer | Full-Stack & AI/ML**
 Background in healthcare & industrial systems
 Building secure, scalable, real-world software
 
@@ -24,6 +24,7 @@ Building secure, scalable, real-world software
 * SQL
 * Php
 * Dart
+* C
 
 **Frontend**
 
@@ -37,7 +38,7 @@ Building secure, scalable, real-world software
 * Node.js (Express, NestJS)
 * Laravel
 * NestJS
-* Django
+* FastApi
 
 **DevOps & Systems**
 
@@ -60,6 +61,7 @@ Building secure, scalable, real-world software
 * **PROSAFE** – Safety & monitoring system *(Web + Mobile + API)*
 * **Care Pulse** – Healthcare-oriented web application
 * **Portfolio** – Personal developer portfolio
+* **MedCareer** – Virtual Healthcare professionals Recruitement Platform
 
 > More projects will be available soon in my repositories 👇
 
