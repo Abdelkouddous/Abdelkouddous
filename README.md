@@ -9,8 +9,9 @@ Certified Machine Learning Professional
 
 ## 🧠 About Me
 
+* System Engineer in Energy Sector 
 * Software Engineer with a strong foundation in **Full-Stack development** and **AI/ML**
-* Academic and professional background spanning **computer science**, **systems & multimedia**, and **medical imaging**
+* Academic and professional background spanning **computer science**, **systems & multimedia**, **networks** and **medical imaging**
 * Strong interest in **industrial IT**, **AI**, **cybersecurity**, and **reliable system design**
 * Focused on building solutions that work in **real environments** — not just demos
 
