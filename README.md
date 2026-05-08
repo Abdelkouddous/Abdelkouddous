@@ -1,9 +1,8 @@
 # Hi, I'm Aymen Abdelkouddous 👋
 
 **Systems Engineer | Full-Stack & AI/ML**
-Background in healthcare & industrial systems
-Building secure, scalable, real-world software
-Certified Machine Learning Professional 
+Background in **healthcare** & **industrial systems**
+Building secure, scalable, real-world software 
 
 ---
 
