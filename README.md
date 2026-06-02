@@ -1,7 +1,7 @@
 # Hi, I'm Aymen Abdelkouddous 👋
 
 **Systems Engineer | Software & AI/ML**
-Engineer in **healthcare** & **industrial systems**
+Engineer in **industrial systems**
 Building secure, scalable, real-world software 
 
 ---
