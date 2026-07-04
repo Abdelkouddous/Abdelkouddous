@@ -1,8 +1,10 @@
-# Hi, I'm Aymen Abdelkouddous 👋
+# Hi, I'm Aymene Abdelkouddous 👋
 
 **Systems Engineer | Software & AI/ML**
 Engineer in **industrial systems**
-Building secure, scalable, real-world software 
+Building secure, scalable, real-world software
+
+[View My Portfolio](http://www.aymenhamel.com)
 
 ---
 
@@ -23,30 +25,30 @@ Building secure, scalable, real-world software
 * JavaScript / TypeScript
 * Python
 * SQL
-* Php
+* PHP
 * Dart
-* C
+* C/C++
 
 **Frontend**
 
 * React / Next.js
-* React Native
 * Tailwind CSS
+* React Native
 * Flutter
 
 **Backend**
 
-* Node.js (Express, NestJS)
-* Laravel
+* ExpressJS
 * NestJS
-* FastApi
+* Laravel
+* Django
 
 **DevOps & Systems**
 
-* Linux
-* Docker
-* CI/CD concepts
+* RHEL Linux
+* CI/CD 
 * Git & GitHub
+* Docker
 * Kubernetes
 
 **Databases**
@@ -59,10 +61,10 @@ Building secure, scalable, real-world software
 
 ## 📌 Featured Projects
 
-* **PROSAFE** – Safety & monitoring system *(Web + Mobile + API)*
+* **PROSAFE** – Safety & monitoring system *(Cross-Platform)*
 * **Care Pulse** – Healthcare-oriented web application
-* **Portfolio** – Personal developer portfolio
-* **MedCareer** – Virtual Healthcare professionals Recruitement Platform
+* **VitalWork** – Virtual Healthcare professionals Recruitement Platform
+* **KERTAS Paleographer** - A ML model to classify ancient manuscripts.
 
 > More projects will be available soon in my repositories 👇
 
