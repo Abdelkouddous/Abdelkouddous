@@ -45,7 +45,7 @@ Building secure, scalable, real-world software
 
 **DevOps & Systems**
 
-* RHEL Linux
+* RedHat Enterprise Linux
 * CI/CD 
 * Git & GitHub
 * Docker
