@@ -1,99 +1,70 @@
-# Hi, I'm Aymene Abdelkouddous 👋
+# Hello, I'm Aymene Abdelkouddous Hamel 👋
 
-**Systems Engineer | Software & AI/ML**
-Engineer in **industrial systems**
-Building secure, scalable, real-world software
+**Enterprise Systems Engineer | Full-Stack Architect | Applied AI**  
+*Operating at the intersection of mission-critical enterprise infrastructure, medical systems, and resilient software design.*
 
-[View My Portfolio](http://www.aymenhamel.com)
+[Portfolio](http://www.aymenhamel.com) • [LinkedIn](https://linkedin.com/in/aymen-hamel) • [Email](mailto:YOUR_EMAIL@example.com)
 
 ---
 
 ## 🧠 About Me
 
-* System Engineer in Energy Sector 
-* Software Engineer with a strong foundation in **Full-Stack development** and **AI/ML**
-* Academic and professional background spanning **computer science**, **systems & multimedia**, **networks** and **medical imaging**
-* Strong interest in **industrial IT**, **AI**, **cybersecurity**, and **reliable system design**
-* Focused on building solutions that work in **real environments** — not just demos
+* 🏢 **Systems Engineer in Energy & Industrial IT:** Managing enterprise-grade infrastructure, Red Hat Enterprise Linux (RHEL) environments, and datacenter reliability for critical sectors.
+* 🏗️ **Software Architect:** Designing modular monoliths and scalable web/mobile platforms adhering strictly to **Domain-Driven Design (DDD)**, **Clean Architecture**, and **SOLID principles**.
+* 🔬 **Healthcare & Medical Imaging Background:** Bridging medical radiology technology and 3D computer vision/AI with rigorous clinical systems understanding.
+* 🎯 **Engineering Discipline:** Focused on deterministic behavior, zero-downtime deployments, and pragmatic engineering rather than tech-stack hype.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Competencies
 
-**Languages**
-
-* JavaScript / TypeScript
-* Python
-* SQL
-* PHP
-* Dart
-* C/C++
-
-**Frontend**
-
-* React / Next.js
-* Tailwind CSS
-* React Native
-* Flutter
-
-**Backend**
-
-* ExpressJS
-* NestJS
-* Laravel
-* Django
-
-**DevOps & Systems**
-
-* RedHat Enterprise Linux
-* CI/CD 
-* Git & GitHub
-* Docker
-* Kubernetes
-
-**Databases**
-
-* PostgreSQL
-* MongoDB
-* MySQL
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | C/C++, Python, TypeScript, Dart, PHP, SQL, Bash |
+| **Backend & Architecture** | Laravel, NestJS, Express.js, Clean Architecture, Repository-Service Pattern, RESTful APIs |
+| **Mobile & Frontend** | Flutter, Next.js, React, Tailwind CSS |
+| **Databases & Storage** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Systems, Cloud & DevOps** | Red Hat Enterprise Linux (RHEL), Docker, Kubernetes, CI/CD Pipelines, Datacenter Ops |
+| **AI & Medical Imaging** | Applied Machine Learning, 3D Vision-Language Systems, Medical Image Processing (CBCT/DICOM) |
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work & Architectures
 
-* **PROSAFE** – Safety & monitoring system *(Cross-Platform)*
-* **Care Pulse** – Healthcare-oriented web application
-* **VitalWork** – Virtual Healthcare professionals Recruitement Platform
-* **KERTAS Paleographer** - A ML model to classify ancient manuscripts.
-
-> More projects will be available soon in my repositories 👇
+* **VitalWork** — Modular monolith platform connecting healthcare professionals with clinical institutions. Built with clean separation of concerns, role-based access control, and high-concurrency scheduling.
+* **PROSAFE** — Industrial safety and telemetry monitoring system built for cross-platform observability and strict fault tolerance.
+* **KERTAS Paleographer** — Machine learning pipeline engineered for the classification, feature extraction, and historical transcription of ancient manuscripts.
+* **Flux** — Real-time logistics and dispatch engine built using Laravel and Flutter, emphasizing resilient state handling and route coordination.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Engineering Sprints
 
-* Strengthening **DevOps & system engineering** skills
-* Building **production-ready** web & mobile applications
-* Applying software engineering to **industrial and healthcare** contexts
-* Building **scalable AI-powered applications**
-
----
-
-## 📈 Philosophy
-
-> Simple systems. Clear logic. Long-term thinking.
-
-I value **discipline**, **continuous learning**, and **practical engineering** over trends.
+* Advanced systems performance tuning and automation on enterprise Linux distributions.
+* Large-scale data engineering and distributed systems reliability (*Designing Data-Intensive Applications* principles).
+* Applied vision-language models for diagnostic and multimodal healthcare pipelines.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Engineering Philosophy
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelkouddous&show_icons=true)
+> *"Simple primitives compose into reliable systems. Complexity is a cost that must justify its presence."*
+
+Reliability, low latency, maintainable contracts, and strict operational discipline over short-lived trends.
+
+---
+
+## 📊 Activity & Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkouddous&show_icons=true&theme=radical&hide_border=true" alt="Aymene's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelkouddous&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect
 
-* GitHub: [https://github.com/Abdelkouddous](https://github.com/Abdelkouddous)
+* **GitHub:** [@Abdelkouddous](https://github.com/Abdelkouddous)
+* **Website:** [aymenhamel.com](http://www.aymenhamel.com)
 
